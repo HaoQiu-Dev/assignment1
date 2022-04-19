@@ -1,0 +1,9 @@
+parameters: ((200, 0.1, 0.01, 401))
+Training acc 0.229
+Validation acc 0.256
+------best above ----parameters: ((200, 0.1, 0.01, 401))
+Training acc 0.229
+Validation acc 0.224
+------best above ----parameters: ((200, 0.1, 0.01, 401))
+Training acc 0.2434
+Validation acc 0.184
